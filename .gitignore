@@ -1,0 +1,20 @@
+# Virtual environments
+
+#data folder
+backend/data/processed
+backend/data/raw
+
+venv/
+.venv/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Other
+*.pyc
