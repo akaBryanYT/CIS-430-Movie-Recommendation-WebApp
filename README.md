@@ -35,7 +35,7 @@ Before you begin, ensure you have the following software installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/CIS-430-Movie-Recommendation-WebApp.git
+git clone https://github.com/akaBryanYT/CIS-430-Movie-Recommendation-WebApp.git
 ```
 
 Navigate to the project directory:
