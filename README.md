@@ -220,12 +220,12 @@ CIS-430-Movie-Recommendation-WebApp/
 │   │   ├── test_routes.py
 │   │   └── test_utils.py
 │   └── venv/
-│       # Virtual environment (ignored by version control)
-├── data/
-│   ├── processed/
-│   └── raw/
-│       ├── rotten_tomatoes_critic_reviews.csv
-│       └── rotten_tomatoes_movies.csv
+│   │   # Virtual environment (ignored by version control)
+├   └── data/
+│       ├── processed/
+│       └── raw/
+│           ├── rotten_tomatoes_critic_reviews.csv
+│           └── rotten_tomatoes_movies.csv
 ├── docs/
 │   ├── api_documentation.md
 │   ├── architecture.md
